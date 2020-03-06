@@ -24,10 +24,9 @@ Programs for finding well positions and colors in a series of organized images o
   * Input: wellColors.xml.
   * Output: wellColors_interpolated.xml
 * *ImportAndPlotColorData.py*
- * Input: wellColors_interpolated.xml
+  * Input: wellColors_interpolated.xml
 * *SelectInterpolatedColorData.py*
- * Grabs pieces of data from wellColors_interpolated.xml and generates lollipop graphs. 
+  * Grabs pieces of data from wellColors_interpolated.xml and generates lollipop graphs. 
 * *GrabData.py*
- * Also grabs data from wellColors_interpolated.xml and generates lollipop graphs, but tries to incorporate gene location data. 
+  * Also grabs data from wellColors_interpolated.xml and generates lollipop graphs, but tries to incorporate gene location data. 
 
-## Outputs
