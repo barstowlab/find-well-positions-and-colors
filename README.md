@@ -21,8 +21,8 @@ Programs for finding well positions and colors in a series of organized images o
   * Input: Manually Curated Updated Catalog.csv (curated after using the OrganizeStoragePlatesByBarcode.py in https://github.com/barstowlab/barcode-organizer).
   * Output: wellColors.xml. A compiled set of well color time courses for each well in the photographic data set. 
 * *InterpolateColorData.py*
- * Input: wellColors.xml.
- * Output: wellColors_interpolated.xml
+  * Input: wellColors.xml.
+  * Output: wellColors_interpolated.xml
 * *ImportAndPlotColorData.py*
  * Input: wellColors_interpolated.xml
 * *SelectInterpolatedColorData.py*
