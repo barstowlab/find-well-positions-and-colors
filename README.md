@@ -11,4 +11,4 @@ Programs for finding well positions and colors in a series of organized images o
 
 ## Code Run Order
 
-FindWellPositionsAndMeasureColorsOnAssayPlate.py
+* FindWellPositionsAndMeasureColorsOnAssayPlate.py
